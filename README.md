@@ -1,7 +1,8 @@
 # filters
 
 To checksum do:
-python addChecksum.py < owa.txt > owaSigned.txt
+
+    python addChecksum.py < owa.txt > owaSigned.txt
 
 See
 * https://adblockplus.org/de/filters
