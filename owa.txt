@@ -1,3 +1,5 @@
 [Adblock Plus 2.0]
-
+! Title: OWA filter
+! Expires: 1 hour
+! Version: 0.1
 ||owa.esailors.de/exchange/.gif
