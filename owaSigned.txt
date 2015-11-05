@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: MmX9MzfIn5b8TNSNhBIXnQ
+! Checksum: uXK+3lZGCRsbFsSBQ629SA
 ! Title: OWA filter
-! Expires: 1 hour
+! Expires: 7 days
 ! Version: 0.1
 ||owa.esailors.de/exchange/.gif
